@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f590.png)
+
 <!--
 **pedrinhofeio/pedrinhofeio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
